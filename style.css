@@ -1,0 +1,76 @@
+ 
+    
+ 
+.partbox{
+    background-color: rgb(197, 197, 238);
+    height:590px;
+    width: 1140px;
+    position: absolute;
+    top:50px;
+    
+
+}
+.card{
+    background-color: aliceblue;
+    height:425px ;
+    width:990px;
+    position:absolute ;
+    top:10px;
+    left: 90px;
+
+}
+.col-4{
+    
+}
+.col-8{
+    
+    height: 50px;
+    bottom: 260px;
+    margin-left: 340px;
+    position: relative;
+   
+    
+}
+.r{
+    width: 250px;
+    height: 300px;
+    top: 9zz0px;
+    position: relative;
+}
+.bar2{
+    position: relative;
+    right:10px
+    
+}
+.bar3{
+    position: relative;
+  
+    right: 225px;
+}
+
+button{
+    position: relative;
+    top: 40px;
+     ;
+}
+.btn{
+    position: relative;
+    width: 150px;
+    left: 30px;
+    right: 50px;
+}
+.form-control{
+    position: relative;
+    left: 400px;
+    bottom: 40px;
+}
+.form{
+    position: relative;
+    right: 160px;
+    border-color: black;
+}
+.bar4{
+    position: relative;
+  
+    right: 55px;
+}
